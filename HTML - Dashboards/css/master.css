@@ -1,0 +1,95 @@
+a{
+  text-decoration: none;
+}
+
+.header h1{
+  font-size: 35px;
+}
+
+.header{
+  text-align: center;
+  background-color: #7A2FAA;
+  color: white;
+  height: 50px;
+  margin: 0 10px;
+  border-radius: 3%;
+  border: 3px blue solid;
+}
+
+.container1{
+  background-color: lightgrey;
+  border: 3px #7A2FAA solid;
+  width: 98%;
+  height: 85%;
+  color: #7A2FAA;
+  text-align: center;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.Text{
+  width: 35%;
+  float: left;
+  text-align: center;
+  margin: 150px 110px;
+  font-family: sans-serif;
+  font-size: 2em;
+  /* border: solid 1px black; */
+  padding: 10px;
+  boder
+}
+
+.Text h1{
+  font-size: 1.5em;
+  padding-bottom: 1em;
+  text-decoration: underline;
+}
+
+.flags{
+  width: 40%;
+  float: right;
+  margin: 75px;
+  /* border: solid 1px black; */
+}
+
+.internal{
+  background-color: #729C34;
+  height: 55px;
+  margin: 20px 7px;
+  color: white;
+  border: solid blue 3px;
+}
+
+.external{
+  background-color: #7A2FAA;
+  height: 55px;
+  margin: 20px 7px;
+  color: white;
+  border: solid blue 3px;
+}
+
+.Buttons{
+  text-decoration: none;
+  text-align: center;
+}
+
+#top{
+  margin-top: 10px;
+}
+
+.Buttons img{
+  margin: 0px;
+  width: 18.5%;
+}
+
+.logo{
+  margin: 15px 10px;
+}
+
+#home{
+  float: right;
+}
+
+.safe{
+  margin-top: 25px;
+}
